@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ela/dela
 
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beatrizborges1&show_icons=false&theme=onedark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beatrizborges1&show_icons=false&theme=radical)
 

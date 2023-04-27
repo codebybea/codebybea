@@ -5,8 +5,8 @@
 
 -->
  - 🎯 Atualmente estudando para ser dev front-end 
- - 😄 Pronouns: ela/dela
- - 🧩 Tenho alguns projetinhos básicos não me julguem kk
+ - 🧩 Tenho alguns projetinhos básicos por enquanto
+ - 😄 Pronomes: ela/dela
  
  <br>
 

@@ -7,6 +7,8 @@
  - 🎯 Atualmente estudando para ser dev front-end 
  - 😄 Pronouns: ela/dela
  - 🧩 Tenho alguns projetinhos básicos não me julguem kk
+ 
+ <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beatrizborges1&show_icons=false&theme=radical)
 

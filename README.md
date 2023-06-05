@@ -8,7 +8,7 @@
  <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beatrizborges1&show_icons=false&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizborges1&hide_progress=false)](https://github.com/beatrizborges1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizborges1&hide_progress=false&theme=radical)](https://github.com/beatrizborges1/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

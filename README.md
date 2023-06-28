@@ -1,11 +1,9 @@
-## Oii Eu sou a Beatriz
+##   Oii Eu sou a Beatriz
 
-<!--
-**beatrizborges1/beatrizborges1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
--->
- - 🎯 Atualmente estudando para ser dev front-end 
+- 🎯 Atualmente estudando para ser dev front-end 
  <br>
+
+<img width="400px" align="right" src="https://github.com/beatrizborges1/beatrizborges1/assets/117928932/3c1ddafc-fd0b-47ed-bdb9-6d7bd2ed5865"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beatrizborges1&show_icons=false&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizborges1&hide_progress=false&theme=radical)](https://github.com/beatrizborges1/github-readme-stats)
@@ -16,7 +14,7 @@
 </div>
 
  ##
- 
+
 <div> 
   <a href="https://instagram.com/bealvs2" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:beatriz.borges0407@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

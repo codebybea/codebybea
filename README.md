@@ -1,6 +1,7 @@
-##   Oii Eu sou a Beatriz
+##   Sobre mim
 
-- 🎯 Atualmente estudando para ser dev front-end 
+
+- 🎯 Oii Eu sou a Beatriz, e atualmente estudando para ser dev front-end 
  <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beatrizborges1&show_icons=false&theme=radical)

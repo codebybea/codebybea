@@ -1,24 +1,32 @@
-##   Sobre mim
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=header"/>
 
 
-- 🎯 Oii Eu sou a Beatriz, e atualmente estou estudando para ser dev front-end 
- <br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beatrizborges1&show_icons=false&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizborges1&hide_progress=false&theme=radical)](https://github.com/beatrizborges1/github-readme-stats)
-
-<img width="350px" align="right" src="https://github.com/beatrizborges1/beatrizborges1/assets/117928932/3c1ddafc-fd0b-47ed-bdb9-6d7bd2ed5865"/>
-
-## **Linguagens**
-<div style="display: inline_block">
-  <img align="center" alt="Bia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="bia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<div align=center>
+  <p> Currently studying to be a dev front-end </p>
 </div>
+ <br>
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=836FFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Beatriz;I'm+18+years+old;I'm+from+Brazil;I+Student+of+Systems+analysis+and+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
- ## **Sociais**
-
-<div> 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=beatrizborges1&show_icons=false&count_private=true&hide_border=true&title_color=836FFF&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Beatriz github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizborges1&layout=compact&hide_border=true&title_color=836FFF&text_color=ffff&bg_color=0d1117" />
+</div>
+<div align=center> 
   <a href="https://instagram.com/bealvs2" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href = "https://www.linkedin.com/in/beatrizalves7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:beatriz.borges0407@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+ ### Main skills
+
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=e34c26&labelColor=0D1117)&nbsp;
+
+
+### Studying in this moment
+![Javascript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=footer"/>

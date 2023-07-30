@@ -2,7 +2,7 @@
 
 
 
-  <p align=center> Currently studying to be a dev front-end </p>
+  <p align=center> Currently studying to be a FullStack developer </p>
  <br>
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=836FFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Beatriz;I'm+18+years+old;I'm+from+Brazil;I+Student+of+Systems+analysis+and+development;Be+Welcome!+:%29)](https://git.io/typing-svg)

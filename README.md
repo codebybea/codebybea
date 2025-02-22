@@ -26,6 +26,7 @@
 
 ### Studying in this moment
 ![Javascript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white)&nbsp;
 

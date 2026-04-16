@@ -57,6 +57,8 @@
  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
  <img width="2" />
   <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=typescript" height="60" alt="typescript logo"  />
 </div>
 
 ###
